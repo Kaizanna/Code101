@@ -1,0 +1,11 @@
+In Sublime text, type ctrl+/ to toggle comments
+
+In Python, tab is how you organize function blocks
+
+print in python only prints a single line, but it includes a carraige return
+
+#What is board
+# It's an array of characters (x and o)
+that's 9 values long
+
+Python passes objects and arrays by reference
